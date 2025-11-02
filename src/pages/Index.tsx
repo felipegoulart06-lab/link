@@ -103,7 +103,7 @@ const Index = () => {
             className="w-full"
             asChild
           >
-            <a href="https://maps.google.com" target="_blank" rel="noopener noreferrer">
+            <a href="google.com/maps/place/Balneário+Camboriú,+SC/data=!4m2!3m1!1s0x94d8b65cc2e52aad:0x2dc004f5e6adebc4?sa=X&ved=1t:242&ictx=111">
               <MapPin className="w-5 h-5" />
               Como Chegar
             </a>
