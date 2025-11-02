@@ -52,7 +52,7 @@ const Index = () => {
           >
             <Link to="/booking">
               <Briefcase className="w-5 h-5" />
-              CONHECER NOSSOS PACOTES DE SERVIÇOS
+              PACOTES DE SERVIÇOS
             </Link>
           </Button>
         </section>
