@@ -77,9 +77,9 @@ const Index = () => {
             className="w-full"
             asChild
           >
-            <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer">
+            <a href="https://" target="_blank" rel="noopener noreferrer">
               <MessageCircle className="w-5 h-5" />
-              Falar Conosco via WhatsApp
+              Perguntas Frequentes (FAQ)
             </a>
           </Button>
 
@@ -90,7 +90,7 @@ const Index = () => {
             className="w-full"
             asChild
           >
-            <a href="#portfolio">
+            <a href="https://tokematic-neon-glow.lovable.app">
               <Briefcase className="w-5 h-5" />
               Conheça nossa Página Oficial
             </a>
