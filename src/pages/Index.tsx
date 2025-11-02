@@ -92,7 +92,7 @@ const Index = () => {
           >
             <a href="#portfolio">
               <Briefcase className="w-5 h-5" />
-              Ver Portfólio de Projetos (Sites/CRMs)
+              Conheça nossa Página oficial
             </a>
           </Button>
 
